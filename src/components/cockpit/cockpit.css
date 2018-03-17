@@ -1,0 +1,32 @@
+.red{
+    color:red;
+  }
+  
+  .bold{
+    font-weight: bold;
+  }
+  
+  .button{
+  border: 1px solid ;
+  padding: 16px;
+  background-color: green;
+  font: inherit;
+  color:white;
+  cursor: pointer;
+  border-radius: 10px;
+  
+  }
+  
+  .button:hover {
+    background-color: lightgreen;
+    color: black;
+  }
+  .button.Red {
+    background-color: red;
+  
+  }
+  .button.Red:hover{
+    background-color: salmon;
+    color: black;
+  }
+  
